@@ -1,0 +1,3 @@
+imds=imageDatastore("E:\研究生\论文\GAN\论文数据\2","IncludeSubfolders",true, "LabelSource" ,"foldernames");
+
+
